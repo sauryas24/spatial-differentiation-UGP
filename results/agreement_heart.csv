@@ -1,0 +1,5 @@
+comparison,method_1,method_2,n_pairs,spearman,top30_overlap
+heart: control vs rest,Structured,Tensor,126,0.9046299212598427,17
+heart: RZ vs rest,Structured,Tensor,126,0.9173843269591302,17
+heart: IZ vs rest,Structured,Tensor,126,0.9228976377952757,22
+heart: FZ vs rest,Structured,Tensor,126,0.8856302962129735,17

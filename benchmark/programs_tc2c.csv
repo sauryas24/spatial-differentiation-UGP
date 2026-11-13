@@ -1,0 +1,181 @@
+scenario,rep,variant,rank,error,recovered_A,recovered_B,n_factors,factors_q05,factors_relabel_min
+fold4,0,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12744933651839666,False,False,2,0,0
+fold4,0,Tensor-c2c (rank 6),6,0.08915960878373172,False,False,6,2,2
+fold4,0,Tensor-c2c (log scores),3,0.19316714829925466,True,False,3,2,2
+fold4,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13241022042486575,False,False,2,2,2
+fold4,1,Tensor-c2c (rank 6),6,0.09202423741163435,False,False,6,1,2
+fold4,1,Tensor-c2c (log scores),3,0.18028010518993423,False,False,3,0,0
+fold4,2,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.1265287490698625,False,False,2,2,2
+fold4,2,Tensor-c2c (rank 6),6,0.09058602021560162,False,False,6,0,3
+fold4,2,Tensor-c2c (log scores),3,0.17306513202132962,False,False,3,0,0
+fold4,3,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.11571334767690448,False,False,3,0,0
+fold4,3,Tensor-c2c (rank 6),6,0.09183464856614354,False,False,6,1,3
+fold4,3,Tensor-c2c (log scores),4,0.15504356818949172,False,False,4,0,0
+fold4,4,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13562390214635572,False,False,2,0,0
+fold4,4,Tensor-c2c (rank 6),6,0.09406159611940774,False,False,6,2,5
+fold4,4,Tensor-c2c (log scores),4,0.17141045431712687,False,False,4,1,2
+fold4,5,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12849889775716,False,False,2,0,0
+fold4,5,Tensor-c2c (rank 6),6,0.08747085049611454,True,False,6,4,4
+fold4,5,Tensor-c2c (log scores),3,0.17849298458730464,False,False,3,1,1
+fold4,6,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12375197893572787,False,False,2,0,2
+fold4,6,Tensor-c2c (rank 6),6,0.08828703893646192,True,False,6,2,2
+fold4,6,Tensor-c2c (log scores),4,0.15848690213109015,True,False,4,2,3
+fold4,7,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.1334212177243091,False,False,2,0,0
+fold4,7,Tensor-c2c (rank 6),6,0.09298245109862473,False,False,6,2,2
+fold4,7,Tensor-c2c (log scores),2,0.21379225905485963,False,False,2,2,2
+fold4,8,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.11698463267395424,False,False,3,0,0
+fold4,8,Tensor-c2c (rank 6),6,0.09532620981611623,True,False,6,3,4
+fold4,8,Tensor-c2c (log scores),3,0.19265584678558292,False,False,3,2,2
+fold4,9,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13095964151340245,False,False,2,0,0
+fold4,9,Tensor-c2c (rank 6),6,0.09272670162431386,False,False,6,0,1
+fold4,9,Tensor-c2c (log scores),3,0.1822405978456611,False,False,3,0,0
+sdm_flat,0,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08541218347259424,False,False,2,0,0
+sdm_flat,0,Tensor-c2c (rank 6),6,0.051079576476865236,False,False,6,3,3
+sdm_flat,0,Tensor-c2c (log scores),2,0.1212524828470148,False,False,2,2,2
+sdm_flat,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08590891239240961,False,False,2,2,2
+sdm_flat,1,Tensor-c2c (rank 6),6,0.05151641931583598,False,False,6,3,4
+sdm_flat,1,Tensor-c2c (log scores),2,0.11482338152917698,False,False,2,2,2
+sdm_flat,2,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.0833283211288943,False,False,2,0,0
+sdm_flat,2,Tensor-c2c (rank 6),6,0.05085227226978907,False,False,6,4,4
+sdm_flat,2,Tensor-c2c (log scores),3,0.0993423841026908,True,False,3,3,3
+sdm_flat,3,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08958971819104912,False,False,2,0,0
+sdm_flat,3,Tensor-c2c (rank 6),6,0.05241674390970912,False,False,6,3,3
+sdm_flat,3,Tensor-c2c (log scores),2,0.1315825167241078,True,False,2,2,2
+sdm_flat,4,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08771461240176315,False,False,2,0,0
+sdm_flat,4,Tensor-c2c (rank 6),6,0.053044586943352096,False,False,6,2,3
+sdm_flat,4,Tensor-c2c (log scores),2,0.12431623507726741,False,False,2,1,1
+sdm_flat,5,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08266550332014651,False,False,2,0,0
+sdm_flat,5,Tensor-c2c (rank 6),6,0.051899485367557084,False,False,6,2,2
+sdm_flat,5,Tensor-c2c (log scores),2,0.11884890067235365,False,False,2,1,1
+sdm_flat,6,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08971675922983045,False,False,2,0,0
+sdm_flat,6,Tensor-c2c (rank 6),6,0.05037401391995439,False,False,6,3,4
+sdm_flat,6,Tensor-c2c (log scores),3,0.10051102975792338,False,False,3,2,2
+sdm_flat,7,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08854535375886535,False,False,2,2,2
+sdm_flat,7,Tensor-c2c (rank 6),6,0.05205238932402445,True,False,6,3,4
+sdm_flat,7,Tensor-c2c (log scores),2,0.118071917250527,False,False,2,1,1
+sdm_flat,8,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08337161651484873,False,False,2,0,0
+sdm_flat,8,Tensor-c2c (rank 6),6,0.05120669544992826,False,False,6,2,3
+sdm_flat,8,Tensor-c2c (log scores),2,0.12340781785912515,False,False,2,1,1
+sdm_flat,9,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08430477474586506,False,False,2,0,0
+sdm_flat,9,Tensor-c2c (rank 6),6,0.05113690671568274,True,False,6,2,3
+sdm_flat,9,Tensor-c2c (log scores),2,0.11056367634295096,False,False,2,1,1
+sdm_hiexpr,0,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.132882927234426,False,False,2,0,0
+sdm_hiexpr,0,Tensor-c2c (rank 6),6,0.08871306898740733,True,False,6,2,3
+sdm_hiexpr,0,Tensor-c2c (log scores),4,0.16684355558401825,True,True,4,3,3
+sdm_hiexpr,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12998280060239423,False,False,2,0,0
+sdm_hiexpr,1,Tensor-c2c (rank 6),6,0.09503018815509652,True,False,6,2,3
+sdm_hiexpr,1,Tensor-c2c (log scores),3,0.18105204674255496,False,False,3,0,0
+sdm_hiexpr,2,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.1244622154380069,False,False,2,0,0
+sdm_hiexpr,2,Tensor-c2c (rank 6),6,0.08838264377078117,True,False,6,2,3
+sdm_hiexpr,2,Tensor-c2c (log scores),3,0.17897593664323166,False,False,3,2,2
+sdm_hiexpr,3,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13216223414254644,False,False,2,0,0
+sdm_hiexpr,3,Tensor-c2c (rank 6),6,0.09082324950194241,False,False,6,0,1
+sdm_hiexpr,3,Tensor-c2c (log scores),3,0.1915131844547888,True,True,3,3,3
+sdm_hiexpr,4,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.12122561700446151,False,False,3,0,0
+sdm_hiexpr,4,Tensor-c2c (rank 6),6,0.09504028357637685,False,False,6,3,3
+sdm_hiexpr,4,Tensor-c2c (log scores),4,0.17126549692282328,False,False,4,2,2
+sdm_hiexpr,5,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12969313454572667,False,False,2,0,2
+sdm_hiexpr,5,Tensor-c2c (rank 6),6,0.08968181643023009,False,True,6,2,2
+sdm_hiexpr,5,Tensor-c2c (log scores),4,0.1616160449278492,False,True,4,2,3
+sdm_hiexpr,6,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.1294604100522416,False,False,2,0,0
+sdm_hiexpr,6,Tensor-c2c (rank 6),6,0.09077108622971539,False,False,6,0,1
+sdm_hiexpr,6,Tensor-c2c (log scores),2,0.20571987089114407,False,False,2,1,1
+sdm_hiexpr,7,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13135643735653185,False,False,2,0,0
+sdm_hiexpr,7,Tensor-c2c (rank 6),6,0.09235882566607041,False,False,6,0,1
+sdm_hiexpr,7,Tensor-c2c (log scores),3,0.18577363779700934,False,False,3,0,2
+sdm_hiexpr,8,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.13192216541495808,False,False,2,0,0
+sdm_hiexpr,8,Tensor-c2c (rank 6),6,0.0899131855395237,False,False,6,0,3
+sdm_hiexpr,8,Tensor-c2c (log scores),3,0.18059100402420425,False,False,3,0,1
+sdm_hiexpr,9,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.14001933938206002,False,False,2,0,0
+sdm_hiexpr,9,Tensor-c2c (rank 6),6,0.09842391981202107,False,False,6,2,3
+sdm_hiexpr,9,Tensor-c2c (log scores),3,0.20285043190416907,False,True,3,3,3
+sdm_reloc_flat,0,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07748427375239088,False,False,2,0,1
+sdm_reloc_flat,0,Tensor-c2c (rank 6),6,0.04938870919002245,False,False,6,0,0
+sdm_reloc_flat,0,Tensor-c2c (log scores),2,0.10391015024720816,False,False,2,0,1
+sdm_reloc_flat,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.0754130923105144,False,False,2,0,1
+sdm_reloc_flat,1,Tensor-c2c (rank 6),6,0.0455753046574537,False,False,6,0,1
+sdm_reloc_flat,1,Tensor-c2c (log scores),2,0.09829227965778653,False,False,2,0,1
+sdm_reloc_flat,2,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07329263158036364,False,False,2,0,0
+sdm_reloc_flat,2,Tensor-c2c (rank 6),6,0.047029411049814604,False,False,6,0,0
+sdm_reloc_flat,2,Tensor-c2c (log scores),2,0.10077834393272557,False,False,2,1,1
+sdm_reloc_flat,3,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08088048188094218,False,False,2,0,0
+sdm_reloc_flat,3,Tensor-c2c (rank 6),6,0.04765383064778586,False,False,6,0,0
+sdm_reloc_flat,3,Tensor-c2c (log scores),2,0.10281764866649587,False,False,2,0,0
+sdm_reloc_flat,4,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07479462587587371,False,False,2,0,0
+sdm_reloc_flat,4,Tensor-c2c (rank 6),6,0.046617172932378347,False,False,6,0,1
+sdm_reloc_flat,4,Tensor-c2c (log scores),2,0.09721422190882478,False,False,2,0,0
+sdm_reloc_flat,5,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.0765810880862586,False,False,2,0,0
+sdm_reloc_flat,5,Tensor-c2c (rank 6),6,0.048004311721445043,False,False,6,0,0
+sdm_reloc_flat,5,Tensor-c2c (log scores),2,0.10443924132424555,False,False,2,0,1
+sdm_reloc_flat,6,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07753387514169881,False,False,2,0,0
+sdm_reloc_flat,6,Tensor-c2c (rank 6),6,0.0493948336864731,False,False,6,0,0
+sdm_reloc_flat,6,Tensor-c2c (log scores),2,0.10326208448430797,False,False,2,0,0
+sdm_reloc_flat,7,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07806529969358623,False,False,2,0,0
+sdm_reloc_flat,7,Tensor-c2c (rank 6),6,0.050881754217926914,False,False,6,0,0
+sdm_reloc_flat,7,Tensor-c2c (log scores),2,0.10346350581862455,False,False,2,0,1
+sdm_reloc_flat,8,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07856757322904682,False,False,2,0,0
+sdm_reloc_flat,8,Tensor-c2c (rank 6),6,0.048539924684175985,False,False,6,0,0
+sdm_reloc_flat,8,Tensor-c2c (log scores),2,0.10343891586048543,False,False,2,0,0
+sdm_reloc_flat,9,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.0748414749103218,False,False,2,0,0
+sdm_reloc_flat,9,Tensor-c2c (rank 6),6,0.04609823922182026,False,False,6,0,0
+sdm_reloc_flat,9,Tensor-c2c (log scores),2,0.10078216740885476,False,False,2,1,1
+null,0,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.11648632834237138,,,3,0,0
+null,0,Tensor-c2c (rank 6),6,0.08861550153557925,,,6,0,0
+null,0,Tensor-c2c (log scores),3,0.1785289025871323,,,3,0,0
+null,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12553906246581978,,,2,0,0
+null,1,Tensor-c2c (rank 6),6,0.08734098169887519,,,6,0,0
+null,1,Tensor-c2c (log scores),4,0.15324297179762664,,,4,0,0
+null,2,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.10859703732069642,,,3,0,0
+null,2,Tensor-c2c (rank 6),6,0.08833292735720527,,,6,1,1
+null,2,Tensor-c2c (log scores),3,0.16871585539143258,,,3,0,0
+null,3,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12876945082573818,,,2,0,0
+null,3,Tensor-c2c (rank 6),6,0.08771809784677986,,,6,0,0
+null,3,Tensor-c2c (log scores),3,0.17609249971580504,,,3,0,0
+null,4,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12709512089744018,,,2,0,0
+null,4,Tensor-c2c (rank 6),6,0.08753686284583448,,,6,0,0
+null,4,Tensor-c2c (log scores),3,0.16639770467266093,,,3,0,0
+null,5,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.1091141987518435,,,3,0,0
+null,5,Tensor-c2c (rank 6),6,0.08560589265481919,,,6,0,0
+null,5,Tensor-c2c (log scores),3,0.16720750918645153,,,3,0,0
+null,6,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.10937065245083612,,,3,0,0
+null,6,Tensor-c2c (rank 6),6,0.0878004369211238,,,6,0,1
+null,6,Tensor-c2c (log scores),3,0.1623577878861958,,,3,0,0
+null,7,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.11179600741806392,,,3,0,0
+null,7,Tensor-c2c (rank 6),6,0.08401104475634691,,,6,0,0
+null,7,Tensor-c2c (log scores),3,0.16845949391898174,,,3,0,0
+null,8,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.12793668066488814,,,2,0,0
+null,8,Tensor-c2c (rank 6),6,0.08678481866241741,,,6,0,1
+null,8,Tensor-c2c (log scores),4,0.1517672362633334,,,4,0,0
+null,9,"Tensor-c2c (protocol: elbow rank, rank scores)",3,0.10778435099160155,,,3,0,0
+null,9,Tensor-c2c (rank 6),6,0.08477545110562228,,,6,0,1
+null,9,Tensor-c2c (log scores),3,0.1633094766696531,,,3,0,0
+sdm_null_flat,0,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07739115601600938,,,2,2,2
+sdm_null_flat,0,Tensor-c2c (rank 6),6,0.048946422556690156,,,6,0,2
+sdm_null_flat,0,Tensor-c2c (log scores),2,0.09823182571853407,,,2,0,0
+sdm_null_flat,1,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08123315311830209,,,2,0,0
+sdm_null_flat,1,Tensor-c2c (rank 6),6,0.04756298631565244,,,6,0,1
+sdm_null_flat,1,Tensor-c2c (log scores),2,0.09978016086713516,,,2,0,0
+sdm_null_flat,2,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07897579328936251,,,2,0,0
+sdm_null_flat,2,Tensor-c2c (rank 6),6,0.04816496530552796,,,6,0,0
+sdm_null_flat,2,Tensor-c2c (log scores),2,0.09786900459357192,,,2,0,0
+sdm_null_flat,3,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07800873902613348,,,2,0,0
+sdm_null_flat,3,Tensor-c2c (rank 6),6,0.047017719053267536,,,6,0,0
+sdm_null_flat,3,Tensor-c2c (log scores),2,0.0969095396845124,,,2,0,0
+sdm_null_flat,4,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.0802237311922363,,,2,0,1
+sdm_null_flat,4,Tensor-c2c (rank 6),6,0.04678730440071496,,,6,1,1
+sdm_null_flat,4,Tensor-c2c (log scores),2,0.09820082574674892,,,2,0,0
+sdm_null_flat,5,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08270166539469573,,,2,0,0
+sdm_null_flat,5,Tensor-c2c (rank 6),6,0.050663851659463674,,,6,0,0
+sdm_null_flat,5,Tensor-c2c (log scores),2,0.10078910547913611,,,2,0,0
+sdm_null_flat,6,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07757740611465967,,,2,0,0
+sdm_null_flat,6,Tensor-c2c (rank 6),6,0.0474727816701687,,,6,0,0
+sdm_null_flat,6,Tensor-c2c (log scores),2,0.09765961764324006,,,2,0,0
+sdm_null_flat,7,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07899320058750389,,,2,0,0
+sdm_null_flat,7,Tensor-c2c (rank 6),6,0.04828578912080807,,,6,0,1
+sdm_null_flat,7,Tensor-c2c (log scores),2,0.0967845921576697,,,2,0,0
+sdm_null_flat,8,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.08086329957082787,,,2,0,0
+sdm_null_flat,8,Tensor-c2c (rank 6),6,0.050705215065996595,,,6,0,0
+sdm_null_flat,8,Tensor-c2c (log scores),2,0.10100414531593158,,,2,0,0
+sdm_null_flat,9,"Tensor-c2c (protocol: elbow rank, rank scores)",2,0.07926554766221292,,,2,0,0
+sdm_null_flat,9,Tensor-c2c (rank 6),6,0.04540246573821729,,,6,0,0
+sdm_null_flat,9,Tensor-c2c (log scores),2,0.09656501741335581,,,2,0,2

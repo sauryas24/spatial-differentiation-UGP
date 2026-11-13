@@ -1,0 +1,10 @@
+setting,top50_overlap
+rank 2,47
+Immune kept,46
+kernel l=50,47
+kernel l=150,46
+secreted only (18 pairs),18
+drop A3 (2 vs 3),48
+drop A4 (2 vs 3),46
+drop A8 (2 vs 3),43
+drop A9 (2 vs 3),44

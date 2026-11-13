@@ -1,0 +1,24 @@
+contrast,setting,top50_overlap
+IZ,rank 2,49
+IZ,kernel x0.6,47
+IZ,kernel x2.0,49
+IZ,drop control_P1,47
+IZ,drop control_P7,47
+IZ,drop control_P8,47
+IZ,drop control_P17,47
+IZ,drop IZ_P3,42
+IZ,drop IZ_P10,43
+IZ,drop IZ_P15,45
+IZ,drop IZ_P16,48
+FZ,rank 2,46
+FZ,kernel x0.6,44
+FZ,kernel x2.0,49
+FZ,drop control_P1,44
+FZ,drop control_P7,47
+FZ,drop control_P8,46
+FZ,drop control_P17,46
+FZ,drop FZ_P14,45
+FZ,drop FZ_P18,47
+FZ,drop FZ_P20,46
+FZ,drop FZ_GT_P4,44
+FZ,drop FZ_GT_P19,48

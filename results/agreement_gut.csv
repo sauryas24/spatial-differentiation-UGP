@@ -1,0 +1,7 @@
+comparison,method_1,method_2,n_pairs,spearman,top30_overlap,calls_1,calls_2,calls_shared,same_direction
+gut: adult vs fetal,SpatialDM,T2 SAM,138,0.5154992476980015,15,53.0,53.0,28.0,0.9642857142857143
+gut: adult vs fetal,SpatialDM,Structured,138,0.2975531348960819,1,53.0,62.0,22.0,0.6363636363636364
+gut: adult vs fetal,SpatialDM,Tensor,138,0.3609839516517538,4,,,,
+gut: adult vs fetal,T2 SAM,Structured,138,0.6270956576535026,7,53.0,62.0,27.0,1.0
+gut: adult vs fetal,T2 SAM,Tensor,138,0.6723159714056745,10,,,,
+gut: adult vs fetal,Structured,Tensor,138,0.969894221087744,21,,,,
